@@ -1,4 +1,4 @@
-Column1;Type;From;To;Amount;Txn;Punk
+UniqueID;Type;From;To;Amount;Txn;Punk
 0;Claimed;;0xc352b5;;Jun 23, 2017;0
 1;Bid ;0x948a10;;219;Jun 23, 2017;0
 2;Bid ;0x00d7c9;;320;Jun 23, 2017;0
